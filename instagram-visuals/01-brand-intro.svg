@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1080 1080" width="1080" height="1080">
+  <defs>
+    <style>
+      @import url('https://fonts.googleapis.com/css2?family=Cormorant+Garamond:wght@300;400;500&amp;display=swap');
+    </style>
+  </defs>
+
+  <!-- Background -->
+  <rect width="1080" height="1080" fill="#0a0a1a"/>
+
+  <!-- Subtle thin border -->
+  <rect x="60" y="60" width="960" height="960" fill="none" stroke="#c97a7a" stroke-width="0.5" opacity="0.3"/>
+
+  <!-- Brand name -->
+  <text x="540" y="460" font-family="'Cormorant Garamond', 'Georgia', serif" font-size="120" font-weight="300" fill="#e0e0e0" text-anchor="middle" letter-spacing="20">lua</text>
+
+  <!-- Thin divider -->
+  <line x1="480" y1="500" x2="600" y2="500" stroke="#c97a7a" stroke-width="0.5" opacity="0.6"/>
+
+  <!-- Tagline -->
+  <text x="540" y="560" font-family="'Cormorant Garamond', 'Georgia', serif" font-size="22" font-weight="300" fill="#999" text-anchor="middle" letter-spacing="8">CYCLE TRACKER</text>
+
+  <!-- Bottom text -->
+  <text x="540" y="920" font-family="'Cormorant Garamond', 'Georgia', serif" font-size="14" font-weight="300" fill="#666" text-anchor="middle" letter-spacing="4">YOUR BODY. YOUR DATA. YOURS ALONE.</text>
+</svg>

@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1080 1080" width="1080" height="1080">
+  <defs>
+    <style>
+      @import url('https://fonts.googleapis.com/css2?family=Cormorant+Garamond:wght@300;400;500&amp;display=swap');
+    </style>
+  </defs>
+
+  <!-- Background -->
+  <rect width="1080" height="1080" fill="#0a0a1a"/>
+
+  <!-- Large decorative letter -->
+  <text x="540" y="580" font-family="'Cormorant Garamond', 'Georgia', serif" font-size="480" font-weight="300" fill="#c97a7a" text-anchor="middle" opacity="0.08">L</text>
+
+  <!-- Overlay text -->
+  <text x="540" y="480" font-family="'Cormorant Garamond', 'Georgia', serif" font-size="18" font-weight="300" fill="#999" text-anchor="middle" letter-spacing="12">PRIVACY IS NOT A FEATURE</text>
+
+  <text x="540" y="540" font-family="'Cormorant Garamond', 'Georgia', serif" font-size="18" font-weight="300" fill="#e0e0e0" text-anchor="middle" letter-spacing="12">IT IS A PRINCIPLE</text>
+
+  <!-- Bottom brand -->
+  <text x="540" y="940" font-family="'Cormorant Garamond', 'Georgia', serif" font-size="14" font-weight="300" fill="#666" text-anchor="middle" letter-spacing="6">LUA CYCLE TRACKER</text>
+</svg>

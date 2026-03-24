@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1080 1080" width="1080" height="1080">
+  <defs>
+    <style>
+      @import url('https://fonts.googleapis.com/css2?family=Cormorant+Garamond:wght@300;400;500&amp;display=swap');
+    </style>
+  </defs>
+
+  <!-- Background -->
+  <rect width="1080" height="1080" fill="#0a0a1a"/>
+
+  <!-- Small accent mark top -->
+  <line x1="540" y1="120" x2="540" y2="200" stroke="#c97a7a" stroke-width="0.5" opacity="0.5"/>
+
+  <!-- Main quote -->
+  <text x="540" y="400" font-family="'Cormorant Garamond', 'Georgia', serif" font-size="42" font-weight="300" fill="#e0e0e0" text-anchor="middle" letter-spacing="2">We believe intimacy</text>
+  <text x="540" y="460" font-family="'Cormorant Garamond', 'Georgia', serif" font-size="42" font-weight="300" fill="#e0e0e0" text-anchor="middle" letter-spacing="2">should remain intimate.</text>
+
+  <!-- Subtext -->
+  <text x="540" y="560" font-family="'Cormorant Garamond', 'Georgia', serif" font-size="18" font-weight="300" fill="#666" text-anchor="middle" letter-spacing="3" line-height="1.8">No servers. No accounts. No tracking.</text>
+  <text x="540" y="595" font-family="'Cormorant Garamond', 'Georgia', serif" font-size="18" font-weight="300" fill="#666" text-anchor="middle" letter-spacing="3">Your cycle lives only on your device.</text>
+
+  <!-- Small accent mark bottom -->
+  <line x1="540" y1="880" x2="540" y2="960" stroke="#c97a7a" stroke-width="0.5" opacity="0.5"/>
+
+  <!-- Brand -->
+  <text x="540" y="850" font-family="'Cormorant Garamond', 'Georgia', serif" font-size="16" font-weight="300" fill="#999" text-anchor="middle" letter-spacing="10">LUA</text>
+</svg>

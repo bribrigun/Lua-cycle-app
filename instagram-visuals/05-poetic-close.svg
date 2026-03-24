@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1080 1080" width="1080" height="1080">
+  <defs>
+    <style>
+      @import url('https://fonts.googleapis.com/css2?family=Cormorant+Garamond:wght@300;400;500&amp;display=swap');
+    </style>
+  </defs>
+
+  <!-- Background - slightly warmer dark -->
+  <rect width="1080" height="1080" fill="#0a0a1a"/>
+
+  <!-- Minimal circle - like a period/full stop -->
+  <circle cx="540" cy="300" r="4" fill="#c97a7a" opacity="0.6"/>
+
+  <!-- Poetic text block -->
+  <text x="540" y="460" font-family="'Cormorant Garamond', 'Georgia', serif" font-size="34" font-weight="300" fill="#e0e0e0" text-anchor="middle" letter-spacing="1" opacity="0.9">Every cycle tells a story.</text>
+  <text x="540" y="520" font-family="'Cormorant Garamond', 'Georgia', serif" font-size="34" font-weight="300" fill="#e0e0e0" text-anchor="middle" letter-spacing="1" opacity="0.9">We simply hold the pen.</text>
+
+  <!-- Thin accent -->
+  <line x1="510" y1="580" x2="570" y2="580" stroke="#c97a7a" stroke-width="0.5" opacity="0.4"/>
+
+  <!-- CTA -->
+  <text x="540" y="650" font-family="'Cormorant Garamond', 'Georgia', serif" font-size="16" font-weight="300" fill="#666" text-anchor="middle" letter-spacing="6">AVAILABLE NOW</text>
+
+  <!-- Brand -->
+  <text x="540" y="920" font-family="'Cormorant Garamond', 'Georgia', serif" font-size="48" font-weight="300" fill="#e0e0e0" text-anchor="middle" letter-spacing="16" opacity="0.8">lua</text>
+</svg>
